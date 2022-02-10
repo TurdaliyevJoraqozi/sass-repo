@@ -1,2 +1,2 @@
 # sass-repo
-## repo for learning scss
+## this repo for learning scss
